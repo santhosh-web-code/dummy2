@@ -1,0 +1,9 @@
+*{
+    background-color: aliceblue;
+}
+h1{
+    color: blue;
+    text-align: center; 
+    background-color: lightgray;
+    padding: 20px;
+}
